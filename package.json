@@ -28,7 +28,7 @@
     "server.js"
   ],
   "dependencies": {
-    "axops": "^0.27.2",
+    "axios": "^0.27.2",
     "http-proxy": "1.11.1",
     "proxy-from-env": "0.0.1"
   },
